@@ -15,7 +15,7 @@
 My insterest is in Reinforcement learning and multi-agent system, using project like this to practice and gain experience.
 
 ## Demo
-![Example Demo](img/demo.png)
+![Example Demo](img/demo.PNG)
 
 ## Technologies
 * Python 3 - pytorch
