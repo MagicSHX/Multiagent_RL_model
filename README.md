@@ -1,5 +1,5 @@
 # Multiagent_RL_model
- > Create a game agent with Reinforcement Learning  & multiagent model
+ > Create a game agent with Reinforcement Learning  & multiagent model (2 VS 2)
 
 ## Table of contents
 * [General info](#general-info)
@@ -12,7 +12,7 @@
 * [Contact](#contact)
 
 ## General info
-My insterest is in Reinforcement learning and multi-agent system, using project like this to practice and gain experience. (2 VS 2)
+My insterest is in Reinforcement learning and multi-agent system, using project like this to practice and gain experience. 
 
 ## Demo
 ![Example Demo](img/AI_record.gif)
