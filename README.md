@@ -12,7 +12,7 @@
 * [Contact](#contact)
 
 ## General info
-My insterest is in Reinforcement learning and multi-agent system, using project like this to practice and gain experience.
+My insterest is in Reinforcement learning and multi-agent system, using project like this to practice and gain experience. (2 VS 2)
 
 ## Demo
 ![Example Demo](img/AI_record.gif)
